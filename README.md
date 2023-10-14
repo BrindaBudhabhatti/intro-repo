@@ -1,3 +1,5 @@
 # intro-repo
 This is my first repository
-Author - Brinda Budhabhatti
+
+Author - Brinda M. Budhabhatti
+
